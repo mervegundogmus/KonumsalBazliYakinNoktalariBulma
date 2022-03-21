@@ -1,3 +1,3 @@
 # Mobil Android Uygulama
 
-Bu proje yakın mesafedeki durakları güzergâh bilgileriyle harita üzerinde gösteren bir uygulamadır.
+Bu proje Android uygulamasında kullanıcının konumunu kullanarak, rota bilgileri ile harita üzerinde işaretleyerek en yakın mesafedeki durakları gösteren Java ile geliştirilmiş bir projedir.
